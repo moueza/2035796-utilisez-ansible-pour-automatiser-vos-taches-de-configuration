@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo echo hosts.txt >>/etc/hosts
+

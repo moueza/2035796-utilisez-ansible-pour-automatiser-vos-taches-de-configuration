@@ -14,7 +14,7 @@ ff02::3 ip6-allhosts
 127.0.01  node-manager
 
 # le node http1 GCP
-34.69.54.7 
+34.69.54.7 http1
 
 # le node bdd1
 34.69.54.7  bdd1
